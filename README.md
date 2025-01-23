@@ -19,3 +19,6 @@ __Results:__
 * Calculated the number of items per order.
 * Determined reorder rate of each product.
 * Defined the proportion of products being reordered per customer.
+
+_Note:_
+The dataframe order_products.csv is not added to this repository due to its size & upload limitations.
