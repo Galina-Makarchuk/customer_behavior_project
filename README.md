@@ -25,6 +25,7 @@ The dataframe order_products.csv is not added to this repository due to its size
 
 __Screenshots from the project:__
 
-<img width="942" alt="Screenshot 2025-01-27 at 12 12 29" src="https://github.com/user-attachments/assets/216a9448-59da-4c4d-bd15-37a47712df6b" />
-
-<img width="892" alt="Screenshot 2025-01-27 at 12 13 15" src="https://github.com/user-attachments/assets/bb1a8c44-b9e9-4602-a2e3-ba6570e12358" />
+<img width="996" alt="Screenshot 2025-01-27 at 20 04 07" src="https://github.com/user-attachments/assets/8e929e5b-56c1-4eb8-9c78-a184b173f6da" />
+<img width="934" alt="Screenshot 2025-01-27 at 20 06 00" src="https://github.com/user-attachments/assets/4b887f1f-424d-4c74-9bf7-e3de7991a1fe" />
+<img width="965" alt="Screenshot 2025-01-27 at 20 10 33" src="https://github.com/user-attachments/assets/0a356764-c962-4c31-a278-9227951eece2" />
+<img width="970" alt="Screenshot 2025-01-27 at 20 11 36" src="https://github.com/user-attachments/assets/44777a1b-1fa7-47d6-a1d6-32aa1fea21b5" />
