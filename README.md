@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Project
+# Exploratory Data Analysis of Customer Behavior
 Customers' behavior and shopping habits analysis.
 
 __Goal of the project:__ provide a report on customers' shopping habits.
