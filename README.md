@@ -22,3 +22,9 @@ __Results:__
 
 _Note:_
 The dataframe order_products.csv is not added to this repository due to its size & upload limitations.
+
+__Screenshots from the project:__
+
+<img width="942" alt="Screenshot 2025-01-27 at 12 12 29" src="https://github.com/user-attachments/assets/216a9448-59da-4c4d-bd15-37a47712df6b" />
+
+<img width="892" alt="Screenshot 2025-01-27 at 12 13 15" src="https://github.com/user-attachments/assets/bb1a8c44-b9e9-4602-a2e3-ba6570e12358" />
