@@ -21,6 +21,8 @@ __Results:__
 * Defined the proportion of products being reordered per customer.
 
 _Note:_
+5 csv dataframes are used in this project. \
+The following dataframes can be downloaded directly from this repository: aisles.csv, departments.csv, instacart_orders.csv, products.csv. \
 The dataframe order_products.csv is not added to this repository due to its size & upload limitations. \
 It can be downloaded from [Google Drive](https://drive.google.com/file/d/1oypZreOoUccmXDlno4MJom2iJSZfDEvj/view?usp=sharing).
 
